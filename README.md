@@ -1,8 +1,8 @@
 <h1> Hi there 👋 </h1>
 
-<h2> My name is Hesam </h2>
+<h2>JUNIOR FLUTTER DEVELOPER </h2>
 
-<h3>JUNIOR FLUTTER DEVELOPER</h3>
+<h3>My name is Hesam</h3>
 
 <p>I'm Hardware Engineering Student 💻🔧.
 
