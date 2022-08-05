@@ -1,12 +1,10 @@
 <h1> Hi there 👋 </h1>
 
-<h2>JUNIOR FLUTTER DEVELOPER </h2>
+<h2>My name is Hesam</h2>
 
-<h3>My name is Hesam</h3>
+<h4>I’m JUNIOR FLUTTER DEVELOPER</h4>
 
-<p>I'm Hardware Engineering Student 💻🔧.
-
- I’m interested in Programming.</p>
+<p>I'm Hardware Engineering Student 💻🔧 & interested in Programming.</p>
  
 ### Skills
 <p align="left">
