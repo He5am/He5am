@@ -4,7 +4,7 @@
 
 <h4>I’m JUNIOR FLUTTER DEVELOPER</h4>
 
-<p>I'm Hardware Engineering Student 💻🔧 & interested in Programming.</p>
+<p>I'm Hardware Engineering Student 💻🔧 & &nbsp; interested in Programming.</p>
  
 ### Skills
 <p align="left">
