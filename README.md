@@ -2,7 +2,7 @@
 
 <h2>My name is Hesam</h2>
 
-<h4>I’m JUNIOR FLUTTER DEVELOPER</h4>
+<h4>Part time developer :) </h4>
 
 <p>I'm Hardware Engineering Student 💻🔧 & &nbsp; interested in Programming.</p>
  
