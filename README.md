@@ -4,7 +4,7 @@
 
 <h4>Part time developer :) </h4>
 
-<p>I'm Hardware Engineering Student 💻🔧 & &nbsp; interested in Programming.</p>
+<p>I'm a Hardware Engineering Student 💻🔧 & &nbsp; interested in Programming.</p>
  
 ### Skills
 <p align="left">
