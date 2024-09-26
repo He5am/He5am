@@ -10,7 +10,7 @@
 <p align="left">
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/81358757/182338423-5cf4af4f-b9e8-4e22-8d66-6673777309fb.svg" width="36" height="36" alt="dart" /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/81358757/182337341-7aeb2425-20a1-4b25-a68a-f0a357a0a8ad.svg" width="36" height="36" alt="flutter" /></a>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.python.org/static/img/python-logo.png" width="90" height="40" alt="python" /></a>
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.python.org/static/img/python-logo.png" width="100" height="40" alt="python" /></a>
 
 </p>
  
