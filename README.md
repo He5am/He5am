@@ -1,36 +1,18 @@
-<h1> Hi There 👋 </h1>
+# Hi There 👋
 
-<h2>My name is Hesam</h2>
-<h3>Interested in creating </h3>
-<h4>Part time developer :) </h4>
+## My name is Hesam
 
-<p>I'm a Hardware Engineering Student 💻🔧 & &nbsp; interested in Programming.</p>
- 
+### Interested in creating innovative solutions and exploring new technologies.
+
+#### Part-time developer :) 
+
+I'm a Hardware Engineering Student 💻🔧 with a strong passion for Programming. I love building things that make a difference, whether it's through hardware or software. I enjoy learning new technologies and applying them to real-world problems.
+
 ### Skills
+
 <p align="left">
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/81358757/182338423-5cf4af4f-b9e8-4e22-8d66-6673777309fb.svg" width="36" height="36" alt="dart" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/81358757/182337341-7aeb2425-20a1-4b25-a68a-f0a357a0a8ad.svg" width="36" height="36" alt="flutter" /></a>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.python.org/static/img/python-logo.png" width="100" height="40" alt="python" /></a>
-
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/81358757/182337341-7aeb2425-20a1-4b25-a68a-f0a357a0a8ad.svg" width="36" height="36" alt="flutter" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="python" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="36" height="36" alt="javascript" /></a>
 </p>
- 
-<!--
-**He5am/He5am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Experience working with
-
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
